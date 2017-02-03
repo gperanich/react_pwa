@@ -1,6 +1,6 @@
 var React = require('react');
 
-var Main = react.createClass({
+var Main = React.createClass({
     render() {
         return (
             <div className='main-container'>
